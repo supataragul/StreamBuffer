@@ -1,5 +1,7 @@
 # Stream buffer
 
+To prevent lagging when streaming video from an IP camera, using a buffer with threading can reduce the lagging issue.
+
 1.  Install Python:
 
     * Using Python 3.7.2:
